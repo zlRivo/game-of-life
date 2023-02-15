@@ -4,6 +4,8 @@ Conway's Game of Life implemented in Rust using SDL2.
 
 Reference: [domoritz/gameoflife-rust](https://github.com/domoritz/gameoflife-rust)
 
+![Video GIF](https://thumbs.gfycat.com/LastingMindlessIndiancow-size_restricted.gif)
+
 ## Controls
 
 ### Camera
